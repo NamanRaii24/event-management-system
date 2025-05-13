@@ -85,3 +85,5 @@
 [13-May-2025 09:53:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\event_management_system\admin.php on line 464
 [13-May-2025 09:53:23 Europe/Berlin] PHP Warning:  Undefined array key "comments" in C:\xampp\htdocs\event_management_system\admin.php on line 464
 [13-May-2025 09:53:23 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\event_management_system\admin.php on line 464
+[13-May-2025 10:04:42 Europe/Berlin] PHP Warning:  Undefined array key "comments" in C:\xampp\htdocs\event_management_system\admin.php on line 464
+[13-May-2025 10:04:42 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\event_management_system\admin.php on line 464
